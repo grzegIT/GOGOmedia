@@ -1,0 +1,20 @@
+@import "imports/_variables";
+@import "imports/_mixins";
+@import "imports/_fonts";
+// basic styles
+* {
+    transition-duration: 300ms;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+
+body {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+}
+
+// header styles
+// page content styles
+// footer styles
