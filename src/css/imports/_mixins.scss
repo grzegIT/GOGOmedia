@@ -1,0 +1,8 @@
+@mixin font-properties($sizeValue: 1.6, $lineHeight: $sizeValue * 1.3, $weight: 300, $alignText: left) {
+    font-size: ($sizeValue * 0.1) + rem;
+    line-height: ($lineHeight * 0.1) + rem;
+    font-weight: $weight;
+    text-align: $alignText;
+}
+
+// @mixin line-height($sizeValue: 1.6) {}
