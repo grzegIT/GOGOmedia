@@ -87,7 +87,7 @@
   left: 0;
   width: 24px;
   height: 24px;
-  background: url("/assets/icons/slider__arrow.png") no-repeat;
+  background: url(/gogomedia/assets/icons/slider__arrow.png) no-repeat;
   background-size: auto auto;
   transform: rotate(180deg) translate(-25%, 50%);
   -webkit-transform: rotate(180deg) translate(-25%, 50%);
@@ -116,7 +116,7 @@
   right: 0;
   width: 24px;
   height: 24px;
-  background: url(/assets/icons/slider__arrow.png) no-repeat;
+  background: url(/gogomedia/assets/icons/slider__arrow.png) no-repeat;
   background-size: auto auto;
   transform: translate(-25%, 50%);
   -webkit-transform: translate(-25%, 50%);

@@ -175,7 +175,7 @@ p {
             width: 80px;
         }
         p {
-            @include font-properties(12, 16, 200);
+            @include font-properties(12, 16, 200, center);
             color: $white;
         }
     }
